@@ -8,12 +8,11 @@
 
 ## ⬇ 다운로드
 
-| | 파일 | 설명 |
-|---|---|---|
-| **프로그램** | **[⬇ singogi_v1.1.exe 받기](https://github.com/hihiood/singogi-release/releases/download/v1.1/singogi_v1.1.exe)** | 신고기 실행 파일 (112MB) |
+# **[⬇ 신고프로그램 받기](https://github.com/hihiood/singogi-release/releases/latest)**
+
+위 링크는 **항상 최신 버전**을 가리킵니다. 열리는 페이지에서 `.exe` 파일을 받아 실행하세요.
 
 > 실행하면 자동으로 최신 상태로 켜집니다. 새 버전이 나오면 켤 때 업데이트 안내가 뜹니다.
-> 최신 버전은 항상 **[릴리스 페이지](https://github.com/hihiood/singogi-release/releases/latest)** 에서 받을 수 있습니다.
 
 ---
 
