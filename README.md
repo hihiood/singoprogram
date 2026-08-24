@@ -6,6 +6,17 @@
 
 ---
 
+## ⬇ 다운로드
+
+| | 파일 | 설명 |
+|---|---|---|
+| **프로그램** | **[⬇ singogi_v1.1.exe 받기](https://github.com/hihiood/singogi-release/releases/download/v1.1/singogi_v1.1.exe)** | 신고기 실행 파일 (112MB) |
+
+> 실행하면 자동으로 최신 상태로 켜집니다. 새 버전이 나오면 켤 때 업데이트 안내가 뜹니다.
+> 최신 버전은 항상 **[릴리스 페이지](https://github.com/hihiood/singogi-release/releases/latest)** 에서 받을 수 있습니다.
+
+---
+
 ## 시작하기 — SmartProxy 가입 · 프록시 생성
 
 프록시가 있어야 계정 생성·신고·트래픽이 돌아갑니다. 아래 초대 링크로 가입한 뒤 **한국(KR) 프록시**를 만들고, 나온 값을 신고기에 넣습니다.
